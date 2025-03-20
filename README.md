@@ -9,8 +9,11 @@
 - **Simulation Execution**: Run all project configs sequentially or a single file on demand, with results automatically displayed in your default browser.
 - **User-Friendly Design**: Includes a sidebar for fast file navigation, real-time logging of simulation progress, and a "Terminate" button to halt processes when needed.
 - **NOTICE**: Currently, GenshinSim Manager only uses the KQMs Stat Solver, as its purpose is to make Theorycrafting with KQMs substats easier.
+
 ### Why It’s Useful
 This app makes [gcsim](https://github.com/genshinsim/gcsim)—a tool for calculating detailed combat stats like team DPS—easier to use for Theorycrafters. GenshinSim Manager offers a compact, all-in-one solution packaged in a single `.exe`, eliminating the need to wrestle with command-line interfaces.
+
+![image](https://github.com/user-attachments/assets/d097568b-d98b-42bb-81c0-2dc7bfa0c491)
 
 ### Instructions
 - **Download**: Get the latest `GenshinSimManager.exe` from the [Releases](https://github.com/yourusername/yourrepo/releases) page.
