@@ -14,7 +14,7 @@ This app makes [gcsim](https://github.com/genshinsim/gcsim)—a tool for calcula
 
 ### Instructions
 - **Download**: Get the latest `GenshinSimManager.exe` from the [Releases](https://github.com/yourusername/yourrepo/releases) page.
-- **Run**: Double-click `GenshinSimManager.exe` to launch—no Python installation needed!
+- **Run**: Double-click `GenshinSimManager.exe` to launch.
 - **First Use**:
   1. **Base Folder**: Click "Browse" next to "Base Dir:" and choose a folder (e.g., `C:\genshinsim`).
   2. **gcsim Path**: Click "Browse" next to "gcsim Path:" and select your `gcsim.exe` (e.g., `C:\Tools\gcsim.exe`).
