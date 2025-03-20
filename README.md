@@ -16,7 +16,7 @@ This app makes [gcsim](https://github.com/genshinsim/gcsim)—a tool for calcula
 ![image](https://github.com/user-attachments/assets/d097568b-d98b-42bb-81c0-2dc7bfa0c491)
 
 ### Instructions
-- **Download**: Get the latest `GenshinSimManager.exe` from the [Releases](https://github.com/yourusername/yourrepo/releases) page.
+- **Download**: Get the latest `GenshinSimManager.exe` from the [Releases]([https://github.com/yourusername/yourrepo/releases](https://github.com/EnigWa/gcsim-manager/releases/tag/0.1.0)) page.
 - **Run**: Double-click `GenshinSimManager.exe` to launch.
 - **First Use**:
   1. **Base Folder**: Click "Browse" next to "Base Dir:" and choose a folder (e.g., `C:\genshinsim`).
